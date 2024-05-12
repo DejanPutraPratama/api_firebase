@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "900241182709",
+    "project_id": "myfirebaseproject06mei2024",
+    "storage_bucket": "myfirebaseproject06mei2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900241182709:android:f22977ff7952014d5a9abc",
+        "android_client_info": {
+          "package_name": "com.Dejan.MyApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDADtBlmqgoxv7oK9Sjf1afeoTyPrh_Uzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900241182709:android:8927585dfab6bb135a9abc",
+        "android_client_info": {
+          "package_name": "com.example.api_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDADtBlmqgoxv7oK9Sjf1afeoTyPrh_Uzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900241182709:android:c5d85f2f426ff2f45a9abc",
+        "android_client_info": {
+          "package_name": "com.maskuri.firestore_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDADtBlmqgoxv7oK9Sjf1afeoTyPrh_Uzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
